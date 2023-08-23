@@ -123,3 +123,31 @@ main{
     color: #fd6e0a;
     padding: 10px;
 }
+
+.resume-tittle{
+    font-size: 20px;
+}
+
+.tittle{
+    font-size: 10px;
+
+}
+.sub-title{
+    font-size: 15px;
+    color: #757575;
+    font-weight: 600;
+}
+.description{
+    font-size: 16px;
+    color: #757575;
+}
+
+.resume-content{
+    display: flex;
+    padding: 15px;
+}
+.resume-button{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+}
